@@ -9,6 +9,6 @@ import java.sql.SQLOutput;
  */
 public class GitController {
     public void add(){
-        System.out.println("哈哈哈");
+        System.out.println("你好啊");
     }
 }
